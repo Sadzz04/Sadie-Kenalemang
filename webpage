@@ -1,9 +1,20 @@
 <!Doctype html>
+
 <html>
-<head>  <title> SADZZ'S WEBPAGE </title>  
+
+<head> 
+
+<meta charset="utf-8">
+
+<title> SADZZ'S WEBPAGE
+
+</title>
+
 </head>
+
 <body> 
 <h1> My first hmtl document </h1>
-<p> hi this is sadzzthetech welcome to my web page </p>
+<p> hi this is sadzzthetech welcome to my web page im very excited to be part of the coding community </p>
 </body>
+
 </hmtl>
